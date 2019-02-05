@@ -15,6 +15,6 @@ function sayHiToGrandma(string) {
    return `I can\'t hear you!`;
  }
  if (string === 'HELLO') {
-   return 'Yes indeed!'
+   return 'YES INDEED!' 
  }
 }
